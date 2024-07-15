@@ -1,0 +1,30 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "cSpell.words": [
+    "anothor",
+    "apexcharts",
+    "auths",
+    "codewithzosh",
+    "discounte",
+    "Ecommerce",
+    "errrr",
+    "Globle",
+    "headlessui",
+    "heroicons",
+    "Jwts",
+    "Persent",
+    "razorpay",
+    "Servlet",
+    "Shopwithzosh",
+    "signin",
+    "spipping",
+    "Springboot",
+    "springframework",
+    "tailwindcss",
+    "zosh"
+  ],
+  "java.configuration.runtimes": [
+
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
